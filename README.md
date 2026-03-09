@@ -1,2 +1,2 @@
-# hello-world
-Repository for practicing the Github flow
+# A little bit about myself.
+My name is Esther. Highly motivated, and adventurous.
