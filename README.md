@@ -1,2 +1,2 @@
 # A little bit about myself.
-Highly motivated, and adventurous.
+My name is Esther. Highly motivated, and adventurous.
