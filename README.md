@@ -1,2 +1,2 @@
-# hello-world
-Repository for practicing the Github flow
+# A little bit about myself.
+Highly motivated, and adventurous.
